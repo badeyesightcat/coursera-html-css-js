@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+body{
+  font-family: 'Abel', sans-serif;
+  font-size: 100%;
+  color: #fff;
+  background-color: #61122f;
+}
+
+.navbar-default{
+  background-color: #f6b319;
+}
